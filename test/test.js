@@ -29,7 +29,7 @@
 //   }
 //   console.log(unique([1, 1, 2, 3, 5, 3, 1, 5, 6, 7, 4]))
 //Bai5
-// var inputDate1 = "28/02/2019";
+// var inputDate1 = "30/02/2019";
 // var arr = inputDate1.split("/");
 // var dayInput = parseInt(arr[0]);
 // var monthInput = parseInt(arr[1]);
@@ -54,6 +54,21 @@
 //                     checkDate = false;
 //                 }
 //  console.log("d2");
+//                 break;
+//             case 4:    
+//             case 6:  
+//             case 9:  
+//             case 1:  
+//                 if(dayInput > 30) {
+//                     checkDate = false;
+//                 }
+//  console.log("d3");
+//                 break;
+            
+//         }
+//     }
+//     return checkDate;
+// }
 // //Bai 4
 // let person = [
 //     {
@@ -75,3 +90,23 @@
 //         chucvu: "chu tich",
 //     },
 // ];
+
+// var a = prompt("Nhap C/R/U/D");
+// if( a=== 'C'){
+// let ten = prompt("Nhap ten");
+// let tuoi = Number(prompt("nhap tuoi"));
+// let mucluong = Number(prompt("Nhap luong"));
+// let chucvu = prompt("Nhap chucvu");
+
+// let newPerson = { 
+//     ten : ten,
+//     tuoi : tuoi,
+//     mucluong : mucluong,
+//     chucvu : chucvu,
+// }
+// person.push(newPerson);
+// console.table(person);
+// }
+// else if (a == "R"){
+//     console.table(person);
+// }
