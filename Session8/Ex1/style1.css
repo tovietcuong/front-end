@@ -1,0 +1,42 @@
+.parent{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+.parent .box{
+    width: 300px;
+    height: 200px;
+    margin-right: 20px;
+    margin-left: 20px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color: white;
+}
+.mother{
+    display: flex;
+    justify-content: center;
+}
+.mother .bon{
+    width: 300px;
+    height: 200px;
+    margin-right: 20px;
+    margin-left: 20px;
+    background-color: rgba(245, 243, 239, 0.904);
+}
+.mother .bon h3{
+    margin-left: 20px;
+    font-size: 22px;
+}
+.mother .bon p{
+    margin-left: 20px;
+    font-size: 20px;
+    margin-right: 20px;
+}
+#title{
+    font-size: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}

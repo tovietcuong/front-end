@@ -1,0 +1,47 @@
+.parent{
+    width: 800px;
+    height: 500px;
+    background-color: white;
+}
+.parent .box{
+    width: 750px;
+    height: 120px;
+    background-color:whitesmoke;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.parent p{
+    margin-top: 20px;
+    margin-left: 20px;
+    display: flex;
+}
+.parent .box-1{
+    display: flex;
+}
+.parent .box-1 p{
+    margin-left: 20px;
+    margin-right: 30px;
+}
+.parent .box .book-a{
+    width: 700px;
+}
+.parent .box .book-b{
+    margin-top: 20px;
+}
+.parent .box .book-b i{
+    font-size: 30px;
+}
+.parent .box-2{
+    display: flex;
+}
+.parent .box-2 p{
+    margin-left: 20px;
+    margin-right: 30px;
+}
+.parent .box-3 p{
+    margin-left: 20px;
+    margin-right: 30px;
+}
+.parent .box-3{
+    display: flex;
+}

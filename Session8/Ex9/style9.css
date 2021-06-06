@@ -1,0 +1,48 @@
+.parent{
+    width: 900px;
+    height: 420px;
+    display: flex;
+    background-color: whitesmoke;
+
+}
+
+.parent .box-1{
+    width: 300px;
+    height: 400px;
+    margin-top: 20px;
+    margin-left: 20px;
+    
+}
+#id1{
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.parent .box-1 span{
+    margin-left: 1px;
+    color:rgb(71, 70, 69);
+}
+.parent .box-1 h2{
+    margin-left: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.parent .box-1 h3{
+    margin-left: 20px;
+}
+.parent .box-2{
+    margin-left: 30px;
+}
+.parent .box-2 p{
+    font-size: 25px;
+    margin-top: 60px;
+   
+}
+.parent .box-2 input{
+    margin-bottom: 10px;
+    width: 518px;
+    height: 30px;
+}
+.parent .box-2 button{
+    margin-top: 10px;
+    background-color: aqua;
+}

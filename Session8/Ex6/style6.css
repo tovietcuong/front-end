@@ -1,0 +1,29 @@
+.parent{
+    background-color: whitesmoke;
+    width: 600px;
+    height: 350px;
+}
+.parent .box{
+    background-color: white;
+    width: 260px;
+    height: 30px;
+    margin-left: 20px;
+    border: 0px;
+    margin-top: 20px;
+}
+.parent .box1{
+    background-color: white;
+    width: 548px;
+    height: 100px;
+    margin-left: 20px;
+    border: 0px;
+    margin-top: 20px;
+}
+.parent .box2{
+    width: 550px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    margin-left: 20px;
+    margin-top: 20px;
+}

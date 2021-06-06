@@ -1,0 +1,42 @@
+.parent{
+    width: 700px;
+    height: 500px;
+    background-color: whitesmoke;
+}
+.parent h2{
+    text-align: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+.parent .box-1{
+    background-color: white;
+    width: 270px;
+    height: 320px;
+    
+    
+}
+.parent .box{
+    display: flex;
+    margin-top: 70px;
+    margin-left: 20px;
+    
+}
+.parent .box-2{
+    margin-left: 50px;
+    width: 430px;
+    height: 300px;
+    margin-right: 20px;
+}
+.parent .box .box-1 p{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.parent .box h4{
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.parent .box-1 b{
+    margin-top: 40px;
+    margin-left: 10px;
+}

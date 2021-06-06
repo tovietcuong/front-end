@@ -1,0 +1,71 @@
+.parent{
+    width: 900px;
+    height: 300px;
+}
+.parent .box-1{
+    width: 900px;
+    height: 230px;
+    background-color: black;
+    display: flex;
+}
+.parent .box-2{
+    display: flex;
+    width: 900px;
+    height: 70px;
+    background-color: rgb(87, 84, 84);
+}
+.parent .box .box-a{
+    width: 270px;
+    color: white;
+    margin-left: 50px;
+    margin-right: 100px;
+    margin-top: 20px;
+}
+.parent .box-a input{
+    width: 200px;
+    height: 30px;
+    margin-right: 5px;
+}
+.parent .box-a i{
+    color: aqua;
+    font-size: 30px;
+}
+.parent .box-a p{
+    margin-top: 30px;
+}
+.parent .box .box-b{
+    width: 100px;
+    color: white;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.parent .box .box-c{
+    width: 100px;
+    color: white;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.parent .box .box-d{
+    width: 100px;
+    color: white;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.parent .box-b p{
+    margin-bottom: 15px;
+}
+.parent .box-2 .block-1{
+display: flex;
+width: 120px;
+height: 30px;
+background-color: aqua;
+margin-left: 70px;
+justify-content: center;
+align-items: center;
+font-size: 20px;
+margin-top: 20px;
+}
+.parent .box-2 .block-2{
+    margin-left: 350px;
+    margin-top: 25px;
+}

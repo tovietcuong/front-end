@@ -1,0 +1,15 @@
+#id4{
+    margin-left: 198px;
+}
+.bt{
+    background-color: aqua;
+    color: white;
+    font-size: 18px;
+}
+.resizedTextbox {
+    width: 290px; height: 30px
+}
+.resizedTextbox1 {
+    width: 590px;
+    height: 30px;
+}

@@ -1,0 +1,72 @@
+.parent{
+    width: 900px;
+    height: 600px;
+    background-color: whitesmoke;
+}
+.parent .title{
+    width: 800px;
+    height: 50px;
+    margin-left: 50px;
+    text-align: center;
+    justify-content: center;
+    font-size: 40px;
+    color: orange;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.parent .box{
+    display: flex;
+}
+.parent .box-1{
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 800px;
+    height: 200px;
+}
+.parent .block-1{
+    width: 400px;
+    height: 200px;
+    
+    margin-right: 50px;
+}
+.parent .box .block-2{
+    width: 400px;
+    height: 200px;
+    
+}
+.parent .box-2{
+    margin-left: 50px;
+    width: 800px;
+    height: 200px;
+    margin-top: 50px;
+}
+.parent .block-3{
+    width: 400px;
+    height: 200px;
+    
+    margin-right: 50px;
+}
+.parent .box .block-4{
+    width: 400px;
+    height: 200px;
+    
+}
+.parent .box .block-1 img{
+        width: 300px;
+        margin-left: 30px;
+}
+.parent .box p{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.parent .box .block-2 img{
+    width: 100px;
+    margin-left: 130px;
+}
+.parent .box .block-3 img{
+    width: 100px;
+    margin-left: 130px;
+}
+.parent .box .block-4 img{
+    width: 270px;
+    margin-left: 50px;
+}
