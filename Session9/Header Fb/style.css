@@ -1,0 +1,85 @@
+.bgr{
+    width: 700px;
+    height: 410px;
+    background-color: aqua;
+    display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+img.anhbia{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+  position: relative;
+}
+img.avatar{
+    width: 170px;
+    height: auto;
+    border:3px solid white;
+    border-radius:50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+.bgr .button-2{
+    display: block;
+    position: absolute;
+    width: 150px;
+    height: 35px;
+    background-color:white;
+    font-size: 17px;
+    border-radius: 7px;
+    border:3px solid white;
+    margin-left: 520px;
+    top: 355px;
+}
+.bgr-avt{
+    width: 180px;
+    height: auto;
+    
+    display: block;
+   margin-left: auto;
+   margin-right: auto;
+   position: relative;
+   top: -150px;
+}
+.bgr-avt .button-1{
+    display: block;
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    font-size: 17px;
+    border:2px solid white;
+    margin-left: 130px;
+    top: 120px;
+    border-radius:50%;
+    font-size: 25px;
+}
+.ho-ten h1{
+    text-align: center;
+    position: relative;
+    top: -160px;
+}
+.ho-ten p{
+    text-align: center;
+    position: relative;
+    top: -160px;
+}
+.parent{
+    position: relative;
+    display: flex;
+    width: auto;
+    height: 50px;
+    background-color: white;
+    top: -160px;
+    
+}
+.parent button{
+    background-color: white;
+    margin-top: 15px;
+   font-size: 20px;
+   margin-right: 15px;
+   border: 2px solid white;
+   
+}
