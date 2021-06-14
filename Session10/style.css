@@ -1,0 +1,55 @@
+#box-1{
+    position: absolute;
+    margin-left: 50px;
+ }
+#id1{
+     height: 200px;
+     width: 200px;
+     background-color: red;
+ }
+#btn1{
+     margin: 20px ;
+ }
+
+#box-2{
+    margin-top: 20px;
+    margin-left: 500px;
+}
+#id2{
+    height: 200px;
+    width: 200px;
+    background-color:blue;
+}
+#btn2{
+    margin: 20px;
+}
+#box-3{
+    margin-top: 30px;
+    margin-left: 50px;
+    position: absolute;
+}
+#block-1{
+    width: 150px;
+    height: 150px;
+    background-color: aqua;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+#block-2{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(21, 161, 161);
+}
+#box-4{
+    margin-top: 20px;
+    margin-left: 500px;
+}
+#id4{
+    height: 200px;
+    width: 200px;
+    background-color:aqua;
+    font-size: 14px;
+}
+#btn4{
+    margin: 20px;
+}
