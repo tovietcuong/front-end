@@ -28,7 +28,7 @@ const buttonRandom = document.querySelector('id2');
 btn2.onclick = function(){
     const randomColor = colors[Math.floor(Math.random() * colors.length)];
     id2.style.backgroundColor = randomColor
-  };
+  }
 
 // B3
 const btn3 = document.getElementById('btn3');
